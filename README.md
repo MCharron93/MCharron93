@@ -12,7 +12,7 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
       • Vue.js(3x) 
       • C# 
        
-- 👯 I’m currently building a Trivia Management Application
+--👯 I’m currently building a Trivia Management Application
 
 --💬 Here are some of my interests and opportunities I've looked into!  
       • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing 
