@@ -6,11 +6,17 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
 --🔭 I’m currently working on a Software Development Certification through Boise CodeWorks
 
 --🌱 I’m currently learning the following
-      • JavaScript
+      • HTML
       • CSS
+      • JavaScript
+      • Bootstrap 
+      • MVC Patterns
       • MongoDB
+      • Node.js
+      • Express
       • Vue.js(3x) 
-      • C# 
+      • C#/ .NET
+      • SQL
        
 --👯 I’m currently building a Trivia Management Application
 
