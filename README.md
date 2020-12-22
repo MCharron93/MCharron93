@@ -4,29 +4,33 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
 
 --🔭 I’m currently working on a Software Development Certification through Boise CodeWorks
  
-&nbsp;--👯 I’m currently building a Trivia Management Application using Vue.js, JavaScript, and 
-&nbsp;--🌱 I’m currently learning the following
-      &nbsp;• HTML
+--👯 I’m currently building a Trivia Management Application using Vue.js, JavaScript, and 
+
+--🌱 I’m currently learning the following
+      • HTML
       • CSS
       • JavaScript
-      &nbsp;• Bootstrap 
+      • Bootstrap 
       • MVC Patterns
       • MongoDB
-      &nbsp;• Node.js
+      • Node.js
       • Express
       • Vue.js(3x) 
-      &nbsp;• C#/ .NET
+      • C#/ .NET
       • MySQL
       • Python
-&nbsp;--💬 Here are some of my interests and opportunities I've looked into!  
+
+--💬 Here are some of my interests and opportunities I've looked into!  
       • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing 
-&nbsp;--📫 Feel free to reach out to me on these platforms!
+
+--📫 Feel free to reach out to me on these platforms!
       • LinkedIn: https://www.linkedin.com/in/michelle-charron/
       • Email: michelle.charron93@gmail.com
-&nbsp;--⚡ Fun facts:
+
+--⚡ Fun facts:
       • I love trivia
       • I play a lot of board games
-      &nbsp;• I'm facinated with data anatlyics and statistics
+      • I'm facinated with data anatlyics and statistics
       • My favourite RPG class is Wizard
       
 **Gandalf**:
