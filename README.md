@@ -28,5 +28,5 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
       • I'm facinated with data anatlyics and statistics
       • My favourite RPG class is Wizard
       
-In the words of Gandalf:
+**Gandalf**:
 > "Even the very wise cannot see all ends."
