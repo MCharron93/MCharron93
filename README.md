@@ -20,7 +20,7 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
       • MySQL
       • Python
 
---💬 Here are some of my interests and opportunities I've looked into!  
+--💬 Here are some of my interests and opportunities I've looked into!
       • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing 
 
 --📫 Feel free to reach out to me on these platforms!
