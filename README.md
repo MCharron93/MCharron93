@@ -3,9 +3,9 @@
 I'm Michelle Charron, a recent graduate from Boise State University, with a background in psychology. I have a passion for Coding and Human Factors. I like to understand how humans interact and utilize things. I also love the outdoors and learning new things. Here's a little more about me!
 
 --🔭 I’m currently working on a Software Development Certification through Boise CodeWorks
-&nbsp;
---👯 I’m currently building a Trivia Management Application using Vue.js, JavaScript, and 
---🌱 I’m currently learning the following
+ 
+&nbsp; --&👯 I’m currently building a Trivia Management Application using Vue.js, JavaScript, and 
+&nbsp; --🌱 I’m currently learning the following
       • HTML
       • CSS
       • JavaScript
