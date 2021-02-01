@@ -2,7 +2,7 @@
 
 I'm Michelle Charron, a recent graduate from Boise State University, with a background in psychology. I have a passion for Coding and Human Factors. I like to understand how humans interact and utilize things. I also love the outdoors and learning new things. Here's a little more about me!
 
---🔭 I’ve completed my certification in Full-Stack Software Development! Take a look at some of the applications I've built below!
+--:mortar_board: I’ve completed my certification in Full-Stack Software Development! Take a look at some of the applications I've built below!
  
 --:movie_camera: https://triviamanagement.herokuapp/#/
 --:scroll: https://kanbantooelectricboogaloo.herokuapp.com/#/
@@ -10,6 +10,14 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
 --:old_key: https://keepkeepr.herokuapp.com/#/
 
 --🌱 I’m currently learning the following
+      • C#/ .NET
+      • MySQL
+      • Python
+      • Unit testing
+      • xUnit
+      • Entity      
+
+--:deciduous_tree: I'm pretty good with the following 
       • HTML
       • CSS
       • JavaScript
@@ -19,9 +27,6 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
       • Node.js
       • Express
       • Vue.js(3x) 
-      • C#/ .NET
-      • MySQL
-      • Python
 
 --💬 Here are some of my interests and opportunities I've looked into!
       • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing 
