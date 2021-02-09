@@ -10,12 +10,9 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
 --:old_key: https://keepkeepr.herokuapp.com/#/
 
 --🌱 I’m currently learning the following
-      • C#/ .NET
-      • MySQL
       • Python
-      • Unit testing
-      • xUnit
-      • Entity      
+      • React
+      • Docker
 
 --:deciduous_tree: I'm pretty good with the following 
       • HTML
@@ -26,7 +23,9 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
       • MongoDB
       • Node.js
       • Express
-      • Vue.js(3x) 
+      • Vue.js(3x)
+      • C#/ .NET
+      • MySQL
 
 --💬 Here are some of my interests and opportunities I've looked into!
       • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing 
