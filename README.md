@@ -2,7 +2,7 @@
 
 I'm Michelle Charron, a recent graduate from Boise State University, with a background in psychology. I have a passion for Coding and Human Factors. I like to understand how humans interact and utilize things. I also love the outdoors and learning new things. Here's a little more about me!
 
---:mortar_board: I’ve completed my certification in Full-Stack Software Development! Take a look at some of the applications I've built below!
+--:mortar_board: I’ve completed my certification in Full-Stack Software Development! I currently work in E-commerce, building custom applications for products and employees. Come check out my stuff!
  
 --:movie_camera: https://triviamanagement.herokuapp/#/
 --:scroll: https://kanbantooelectricboogaloo.herokuapp.com/#/
