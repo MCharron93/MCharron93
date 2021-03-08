@@ -5,8 +5,11 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
 --:mortar_board: &nbsp;I’ve completed my certification in Full-Stack Software Development! I currently work in E-commerce, building custom applications for products and employees. Come check out my stuff!
  
 --:movie_camera: &nbsp;https://triviamanagement.herokuapp/#/
+
 --:scroll:  &nbsp;https://kanbantooelectricboogaloo.herokuapp.com/#/
+
 --:bug:  &nbsp;https://bug-report1.herokuapp.com/#/
+
 --:old_key:  &nbsp;https://keepkeepr.herokuapp.com/#/
 
 --🌱  &nbsp;I’m currently learning the following
