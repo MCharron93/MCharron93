@@ -1,8 +1,8 @@
 ### Hello Fellow Humans! 👋
 
-I'm Michelle Charron, a recent graduate from Boise State University, with a background in psychology. I have a passion for Coding and Human Factors. I like to understand how humans interact and utilize things. I also love the outdoors and learning new things. Here's a little more about me!
+I'm Michelle, a full-stack software developer with a BS in psychology. I have a passion for web developement and Human Factors psychology. I like to understand how humans interact and utilize things. I also love the outdoors and learning new things. Here's a little more about me!
 
---:mortar_board: &nbsp;I’ve completed my certification in Full-Stack Software Development! I currently work in E-commerce, building custom applications for products and employees. Come check out my stuff!
+--:mortar_board: &nbsp;I’ve completed my certification in Full-Stack Software Development! I currently work in E-commerce, building custom applications for products and employees. Come check out my stuff! 
  
 --:movie_camera: &nbsp;https://triviamanagement.herokuapp/#/
 
@@ -12,8 +12,8 @@ I'm Michelle Charron, a recent graduate from Boise State University, with a back
 
 --:old_key:  &nbsp;https://keepkeepr.herokuapp.com/#/
 
---🌱  &nbsp;I’m currently learning the following
-      • Python
+--🌱  &nbsp;I’m currently working in the following
+      • Material UI
       • React
       • Docker
 
