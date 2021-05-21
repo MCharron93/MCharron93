@@ -13,6 +13,9 @@ I'm Michelle, a full-stack software developer with a BS in psychology. I have a 
 --:old_key:  &nbsp;https://keepkeepr.herokuapp.com/#/
 
 --🌱  &nbsp;I’m currently working in the following
+      • Shopify
+      • Liquid
+      • Pug
       • Material UI
       • React
       • Docker
@@ -30,8 +33,8 @@ I'm Michelle, a full-stack software developer with a BS in psychology. I have a 
       • C#/ .NET
       • MySQL
 
---💬  &nbsp;Here are some of my interests and opportunities I've looked into!
-      • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing 
+<!-- --💬  &nbsp;Here are some of my interests and opportunities I've looked into!
+      • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing  -->
 
 --📫  &nbsp;Feel free to reach out to me on these platforms!
       • LinkedIn: https://www.linkedin.com/in/michelle-charron/
