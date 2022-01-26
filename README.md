@@ -2,15 +2,7 @@
 
 I'm Michelle, a full-stack software developer with a BS in psychology. I have a passion for web developement and Human Factors psychology. I like to understand how humans interact and utilize things. I also love the outdoors and learning new things. Here's a little more about me!
 
---:mortar_board: &nbsp;I’ve completed my certification in Full-Stack Software Development! I currently work in E-commerce, building custom applications for products and employees. Come check out my stuff! 
- 
---:movie_camera: &nbsp;https://triviamanagement.herokuapp/#/
-
---:scroll:  &nbsp;https://kanbantooelectricboogaloo.herokuapp.com/#/
-
---:bug:  &nbsp;https://bug-report1.herokuapp.com/#/
-
---:old_key:  &nbsp;https://keepkeepr.herokuapp.com/#/
+--:mortar_board: &nbsp;I’ve completed my certification in Full-Stack Software Development! I currently work in E-commerce, building custom applications and maintaining multiple company storefronts.
 
 --🌱  &nbsp;I’m currently working in the following
       • Shopify
@@ -24,17 +16,15 @@ I'm Michelle, a full-stack software developer with a BS in psychology. I have a 
       • HTML
       • CSS
       • JavaScript
-      • Bootstrap 
-      • MVC Patterns
-      • MongoDB
-      • Node.js
-      • Express
       • Vue.js(3x)
+      • Liquid.js 
+      • Node.js 
+      • Express
+      • Shopify
+      • Ruby
+      • MVC Patterns
       • C#/ .NET
       • MySQL
-
-<!-- --💬  &nbsp;Here are some of my interests and opportunities I've looked into!
-      • https://docs.google.com/spreadsheets/d/1ndjscWrltNHn-ADPihqpXDccL4NKV4dMTKcaWKEqTeI/edit?usp=sharing  -->
 
 --📫  &nbsp;Feel free to reach out to me on these platforms!
       • LinkedIn: https://www.linkedin.com/in/michelle-charron/
